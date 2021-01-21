@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Created By: ChauhanSai Dev Team",
+        "name": "Plasticator Texture Pack",
+        "uuid": "5137f20d-39e1-48b9-b3f8-19d2838f1afb",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+            "description": "Created By: ChauhanSai Dev Team",
+            "type": "resources",
+            "uuid": "d42c5340-a91f-4bef-8aa2-315ccc2a791a",
+            "version": [1, 0, 0]
+        }
+    ]
+}
