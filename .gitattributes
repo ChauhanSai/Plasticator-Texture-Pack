@@ -1,1 +1,2 @@
-*.png linguist-language=Portable Graphics
+# Auto detect text files and perform LF normalization
+* text=auto
