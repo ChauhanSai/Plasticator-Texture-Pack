@@ -16,10 +16,14 @@ This texture pack has integration for select first party addons;
 - [Cobblestone Semantics](https://github.com/ChauhanSai/Cobble-Semantics)
 
 ## All Versions
-- **v2.1.0**
+- **v2.1.1**
 	- **[Web](https://chauhansaimc.wixsite.com/chauhan-sai-mc/post/plasticator-v2-0-0-minecraft-bedrock-texture-pack-download)**
-	- **[GitHub](https://github.com/ChauhanSai/Plasticator-Texture-Pack/releases/tag/v2.1.0)**
+	- **[GitHub](https://github.com/ChauhanSai/Plasticator-Texture-Pack/releases/tag/v2.1.1)**
 	- **Bug Fixes**
+- v2.1.0
+	- [Web](https://chauhansaimc.wixsite.com/chauhan-sai-mc/post/plasticator-v2-0-0-minecraft-bedrock-texture-pack-download)
+	- [GitHub](https://github.com/ChauhanSai/Plasticator-Texture-Pack/releases/tag/v2.1.0)
+	- Bug Fixes
 - v2.0.0 (Full Release)
 	- [Web](https://chauhansaimc.wixsite.com/chauhan-sai-mc/post/plasticator-v2-0-0-minecraft-bedrock-texture-pack-download)
 	- [GitHub](https://github.com/ChauhanSai/Plasticator-Texture-Pack/releases/tag/v2.0.0)
