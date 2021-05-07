@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "An addon for Plasticator Texture Pack Created By: ChauhanSai Dev Team",
+        "name": "Plasticator: Unique Planks",
+        "uuid": "639f7f25-cef1-4251-bcbc-b60690f5bfa2",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+            "description": "An addon for Plasticator Texture Pack Created By: ChauhanSai Dev Team",
+            "type": "resources",
+            "uuid": "65e34fa0-73fc-42b2-969c-bdf02486cde1",
+            "version": [1, 0, 0]
+        }
+    ]
+}
