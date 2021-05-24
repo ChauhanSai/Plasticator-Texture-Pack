@@ -16,8 +16,19 @@ This texture pack has integration for select first party addons;
 - [XtraDrinks](https://github.com/ChauhanSai/XtraDrinks)
 - [Cobblestone Semantics](https://github.com/ChauhanSai/Cobble-Semantics)
 
+## Addons
+<p align="center">
+<a href="https://github.com/ChauhanSai/Plasticator-Texture-Pack/releases/download/v2.2.0/Plasticator.Unique.Planks.mcpack">
+	<img src="https://i.imgur.com/DVYSMaR.png" alt="Download Unqiue Planks" height="250"/>
+</a>
+</p>
+
 ## Download
 <p align="center">
+<a href="https://github.com/ChauhanSai/Plasticator-Texture-Pack/releases/download/v2.2.0/Plasticator.Texture.Pack.v2.2.0.mcpack">
+		<img src="https://i.imgur.com/znAfnwc.png" alt="Download v2.2.0" height="250"/>
+</a>
+
 <a href="https://github.com/ChauhanSai/Plasticator-Texture-Pack/releases/download/v2.1.1/Plasticator.Texture.Pack.v2.1.1.mcpack">
 		<img src="https://i.imgur.com/fDFcY0L.png" alt="Download v2.1.1" height="250"/>
 </a>
