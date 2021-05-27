@@ -1,0 +1,37 @@
+{
+  "skins": [
+    {
+      "localization_name": "Steve",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "steve.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Alex",
+      "geometry": "geometry.humanoid.alex",
+      "texture": "alex.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Grass",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "grass.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Dirt",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "dirt.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Stone",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "stone.png",
+      "type": "free"
+    }
+	
+  ],
+  "serialize_name": "Plasticator_Skins",
+  "localization_name": "Plasticator_Skins"
+}

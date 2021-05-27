@@ -1,0 +1,24 @@
+{
+  "header": {
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "description": "skin_pack",
+    "name": "Plasticator: Skins",
+    "uuid": "c805b8db-76f2-44b0-8d8d-bd2932a9c524"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "type": "skin_pack",
+      "uuid": "59bfc1b0-8c92-4b46-a2e7-e1c512484e75"
+    }
+  ],
+  "format_version": 1
+}
