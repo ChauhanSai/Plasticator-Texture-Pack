@@ -21,6 +21,9 @@ This texture pack has integration for select first party addons;
 <a href="https://github.com/ChauhanSai/Plasticator-Texture-Pack/releases/download/v2.2.0/Plasticator.Unique.Planks.mcpack">
 	<img src="https://i.imgur.com/DVYSMaR.png" alt="Download Unqiue Planks" height="250"/>
 </a>
+<a href="https://github.com/ChauhanSai/Plasticator-Texture-Pack/releases/download/v2.2.0/Plasticator.Skins.mcpack">
+	<img src="https://i.imgur.com/CUUyLFi.png" alt="Download Skins Addon" height="250"/>
+</a>
 </p>
 
 ## Download
