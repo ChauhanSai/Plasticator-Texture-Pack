@@ -28,8 +28,12 @@ This texture pack has integration for select first party addons;
 
 ## Download
 <p align="center">
+<a href="https://github.com/ChauhanSai/Plasticator-Texture-Pack/releases/download/v2.3.0/Plasticator.Texture.Pack.v2.3.0.mcpack">
+		<img src="https://i.imgur.com/NZXsYXO.png" alt="Download v2.3.0" height="243"/>
+</a>
+	
 <a href="https://github.com/ChauhanSai/Plasticator-Texture-Pack/releases/download/v2.2.0/Plasticator.Texture.Pack.v2.2.0.mcpack">
-		<img src="https://i.imgur.com/znAfnwc.png" alt="Download v2.2.0" height="250"/>
+		<img src="https://i.imgur.com/znAfnwc.png" alt="Download v2.2.0" height="243"/>
 </a>
 
 <a href="https://github.com/ChauhanSai/Plasticator-Texture-Pack/releases/download/v2.1.1/Plasticator.Texture.Pack.v2.1.1.mcpack">
