@@ -32,6 +32,10 @@ This texture pack has integration for select first party addons;
 		<img src="https://i.imgur.com/TRbRDuC.png" alt="Download v2.4.0" height="243"/>
 </a>
 	
+<a href="https://github.com/ChauhanSai/Plasticator-Texture-Pack/releases/download/v2.4.0/Plasticator.Texture.Pack.Java.mcpack">
+		<img src="https://i.imgur.com/yn8TjiD.png" alt="Download Java v1.0.0" height="243"/>
+</a>
+	
 <a href="https://github.com/ChauhanSai/Plasticator-Texture-Pack/releases/download/v2.3.0/Plasticator.Texture.Pack.v2.3.0.mcpack">
 		<img src="https://i.imgur.com/NZXsYXO.png" alt="Download v2.3.0" height="243"/>
 </a>
